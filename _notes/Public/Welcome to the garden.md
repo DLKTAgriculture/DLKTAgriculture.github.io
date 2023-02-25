@@ -1,10 +1,13 @@
 ---
-title : Welcome to the garden
+title : Thành viên của DLKTAgriculture
 feed: show
-date : 15-04-2021
+date : 25-02-2023
 ---
 
-Welcome to digital garden using Obsidian and Jekyll garden theme. This file is located in `_notes/Public`. Check the <a href="{{'/notes' | relative_url}}"> demo </a>, <a href="{{'/post/features' | relative_url}}"> features </a> to know more.
-
-Check [[Hidden Note]] to know how to create notes which won't appear on the feed!
-
+Chào mọi người đến với trang web của nhóm chúng mình
+Sau đây là các thành viên của nhóm:
+  + Châu Nguyễn Thanh Duy: Một lập trình viên, hacker.
+  + Quách Khả Đăng: Lớp trưởng gương mẫu của LK14 và cũng là thành viên của đội tuyển 30/4.
+  + Trần Nguyễn Thảo Ly: Ghệ lớp trưởng.
+  + Đặng Thái Thiên Khải: Lớp phó lao động lười biếng, hay bị ngáo đá.
+  + Trần Hoàng Quân: Hay chơi genshin, editor khá vjp pro.
