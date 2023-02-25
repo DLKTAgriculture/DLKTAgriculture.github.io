@@ -2,7 +2,7 @@
 layout: Post
 permalink: /notes
 feedformat: card
-title: Digital Garden
+title: Some notes
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+DLKTAgriculture với DLKT là chữ cái đầu tiên của <b>Đ</b>ăng & "<b>D</b>uy, <b>L</b>y, <b>K</b>hải và <b>T</b>rần Quân.
