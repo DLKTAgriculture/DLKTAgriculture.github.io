@@ -3,9 +3,6 @@
 title: First Post
 
 ---
-
-# First Post
-
 ## CHỮ KÍ SỐ
 - Chữ ký số cá nhân là một loại chữ ký điện tử, có giá trị tương đương với chữ ký tay của mỗi cá nhân. Chữ ký số cá nhân được dùng với mục đích xác thực danh tính của người ký trong các trường hợp giao dịch điện tử. Chữ kí số được số hóa (mã hóa) với thuật toán cơ bản là dự trên số nguyên có tổng các chữ số là số nguyên tố.
 - Yêu cầu: Cho trước hai số nguyên L, R. Hãy đếm xem trong đoạn L, R có bao nhiêu số nguyên có tổng các chữ số là số nguyên tố (kể cả số nguyên L, R).
